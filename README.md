@@ -1,6 +1,6 @@
 ### Hi there 👋
 [![Cl0udG0d's github stats](https://github-readme-stats.vercel.app/api?username=kongenen)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kongenen&layout=compact&theme=tokyonight)
+
 
 Here are some ideas to get you started:
 
