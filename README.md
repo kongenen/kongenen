@@ -1,6 +1,6 @@
 ### Hi there 👋
 [![Cl0udG0d's github stats](https://github-readme-stats.vercel.app/api?username=kongenen)](https://github.com/anuraghazra/github-readme-stats)
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kongenen&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kongenen&layout=compact&theme=tokyonight)
 
 Here are some ideas to get you started:
 
@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<div align="center"> <img src="https://metrics.lecoq.io/kongenen?template=classic&config.timezone=Asia%2FShanghai"> </div>
+
 
